@@ -3,7 +3,7 @@ package ex_02_labexcercises;
 public class Lab013_printf_table_9 {
     public static void main(String[] args) {
         System.out.println("multiplication table of 9");
-        System.out.printf("9 x 1 = %d%n", 9 * 1);
+        System.out.printf("9 x 1 = %d%n", 9 );
         System.out.printf("9 x 2 = %d%n", 9 * 2);
         System.out.printf("9 x 3 = %d%n", 9 * 3);
         System.out.printf("9 x 4 = %d%n", 9 * 4);

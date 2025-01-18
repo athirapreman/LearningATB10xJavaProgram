@@ -4,7 +4,7 @@ public class Lab011_variables {
     public static void main(String[] args) {
 
 
-        int a = 10;
+        //int a = 10;
         // data type variable_name =  variable_value
 
         int age = 65;
