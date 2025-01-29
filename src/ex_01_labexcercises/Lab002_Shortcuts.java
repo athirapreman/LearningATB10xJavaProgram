@@ -1,3 +1,5 @@
+package ex_01_labexcercises;
+
 public class Lab002_Shortcuts {
     public static void main(String[] args) {
         System.out.println("shortcuts");
